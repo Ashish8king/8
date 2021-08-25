@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIMAX
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIPLUS
+http://mue03.wanicelife.com:8880/live/SFL122340/P4N06KNGE/71110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Sony Sab HD
+http://mue03.wanicelife.com:8880/live/SFL122340/P4N06KNGE/1906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",&TV HD
+http://mue03.wanicelife.com:8880/live/SFL122340/P4N06KNGE/1956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Sony PIX
+http://mue03.wanicelife.com:8880/live/SFL122340/P4N06KNGE/1933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Star Movies HD
+http://mue03.wanicelife.com:8880/live/SFL122340/P4N06KNGE/1896.m3u8
