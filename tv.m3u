@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIPLUS
-http://mvu03.wanicelife.com:8880/live/SFL122340/P4N06KNGE/71110.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIMAX
-http://mvu03.wanicelife.com:8880/live/SFL122340/P4N06KNGE/50122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",&TV HD
-http://mvu03.wanicelife.com:8880/live/SFL122340/P4N06KNGE/1956.m3u8
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
