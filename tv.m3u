@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIMAX
-https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+http://aptv.one:80/931980477533663/1593574628/58491
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIPLUS
 http://aptv.one:80/931980477533663/1593574628/58492
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",&TV HD
@@ -11,6 +11,8 @@ http://mue03.wanicelife.com:8880/SFL122340/P4N06KNGE/1933
 http://mue03.wanicelife.com:8880/SFL122340/P4N06KNGE/1896
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",History Tv18
 http://aptv.one:80/931980477533663/1593574628/77134
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV", National Geographic HD
+http://aptv.one:80/931980477533663/1593574628/77083
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Aaj Tak
