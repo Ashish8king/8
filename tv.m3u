@@ -10,10 +10,12 @@ http://mue03.wanicelife.com:8880/SFL122340/P4N06KNGE/1933
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Star Movies HD
 http://mue03.wanicelife.com:8880/SFL122340/P4N06KNGE/1896
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",History Tv18
-http://aptv.one:80/931980477533663/1593574628/77134
+http://85.203.33.88:80/ZwARnbywHb285/JqDUtW295/18794
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Republic TV
-http://aptv.one:80/931980477533663/1593574628/77063
+http://connect.ottplus.biz:8000/41496302878653/41130289304063/182644
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Republic Bharat
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+http://connect.ottplus.biz:8000/41496302878653/41130289304063/182593
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Aaj Tak
 https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Sab TV
+http://85.203.33.88:80/ZwARnbywHb285/JqDUtW295/10139
