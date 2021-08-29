@@ -10,7 +10,7 @@ http://85.203.33.88:80/ZwARnbywHb285/JqDUtW295/18794
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Republic TV
 https://weblive.republicworld.com:443/liveorigin/republictv/master_hdlive_360p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Republic Bharat
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+https://webliverb.republicworld.com:443/live/bharat_hls/masterlive_360p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Aaj Tak
 http://portal.ramz123.xyz:8080/jpmeysso/ZDStMgGLNv/4752
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",India TV
