@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIMAX
-http://50.7.74.29:8880/hls/j00026/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIPLUS
+http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",SONY GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",History Tv18
