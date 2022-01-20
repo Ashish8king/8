@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIMAX
-https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIPLUS
-http://aptv.one:80/931980477533663/1593574628/58492
+http://50.7.74.29:8880/hls/j00026/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",SONY GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",History Tv18
-http://85.203.33.88:80/ZwARnbywHb285/JqDUtW295/18794
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Republic TV
-https://weblive.republicworld.com:443/liveorigin/republictv/master_hdlive_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Republic Bharat
+http://fitnesscigars.co.uk:8880/play/JCky4TkQV670KRi5HbbZ-35bDYE5rVX9iON1hrxa7YSqyW7SEdHcNQIANggnh9fEyxIlLbItg4Tj7ZXnmh6ee3riTf4cQ6gIKeraPMEZzMocxf50LAEK_0pyJ2re4nbib4G2ALYfNAyoqxzq_SSXqA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",&TV HD
+http://fitnesscigars.co.uk:8880/play/JCky4TkQV670KRi5HbbZ-35bDYE5rVX9iON1hrxa7YSqyW7SEdHcNQIANggnh9fEo2kZJdYYNcNZkFrBRhdoNiTRBqgAbRTP3dw4l9tBxlbxB_qFsN_bc9bRmn2DjWIQvjmUVo8RKANtpNaOcogCLA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",WWE
 https://webliverb.republicworld.com:443/live/bharat_hls/masterlive_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Aaj Tak
-https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",SONY SAB HD
+http://fitnesscigars.co.uk:8880/play/JCky4TkQV670KRi5HbbZ-35bDYE5rVX9iON1hrxa7YSqyW7SEdHcNQIANggnh9fEPYNNF9oViIrdG8l2XkLUiuMeXoWGYaWjNQhhb0kj0g5DSHJEX-r9zIJ-e9f2FLHT7m_iBIh-4iNA13IoLLs2mA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Kantipur(Nepal)
 https://ktvhdnpicc.ekantipur.com:443/ktv_desktop_02347834/hd/kantipurtv/hd_480/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Sab TV
-http://85.203.33.88:80/ZwARnbywHb285/JqDUtW295/10139
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",SONY TV HD
+http://fitnesscigars.co.uk:8880/play/JCky4TkQV670KRi5HbbZ-35bDYE5rVX9iON1hrxa7YSqyW7SEdHcNQIANggnh9fESFbk4LcwAjJ0eu6GFO_sVQhjMb2xw76Hr4N4kC9ambPJX3Q183rTUvMZJ7cRxARAUW7zjpZYg-sokXplBlhBUg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Discovery
 http://85.203.33.88:80/ZwARnbywHb285/JqDUtW295/10147
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",TEN 1
