@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIMAX ENG
-http://iptvtree.net:8080/live/F18394/0e01c712/144838.m3u8
+http://iptvtree.net:8080/live/F18394/0e01c712/144838
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIMAX HD
-http://iptvtree.net:8080/live/F18394/0e01c712/165081.m3u8
+http://iptvtree.net:8080/live/F18394/0e01c712/165081
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIPLUS
-http://iptvtree.net:8080/live/F18394/0e01c712/157611.m3u8
+http://iptvtree.net:8080/live/F18394/0e01c712/157611
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",SONY TEN 1
-http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/32168.m3u8
+http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/32168
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",& TV HD
-http://goodtv.nicsep.xyz:80/live/vi1116298/RrFYC3ATPNMG/618628.m3u8
+http://goodtv.nicsep.xyz:80/live/vi1116298/RrFYC3ATPNMG/618628
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",SONY SAB HD
-http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/32170.m3u8
+http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/32170
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",SONY PAL
-http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/32176.m3u8
+http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/32176
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",SONY TV HD
-http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/32171.m3u8
+http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/32171
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",WWE
-http://likea8bitboss.xyz:80/live/3302433848/8107964523/649307.m3u8
+http://likea8bitboss.xyz:80/live/3302433848/8107964523/649307
 
 
