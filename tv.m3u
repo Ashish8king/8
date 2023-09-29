@@ -7,6 +7,10 @@ https://code.vthanhtivi.pw/getlink/jptvvn/229/playlist.m3u8
 http://iptvtree.net:8080/F18394/0e01c712/157611
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIPLUS HD
 http://iptvtree.net:8080/F18394/0e01c712/298504
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",MTV JAPAN
+https://code.vthanhtivi.pw/getlink/jptvvn/50/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",KIDS STATION JAPAN
+https://code.vthanhtivi.pw/getlink/jptvvn/282/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",SONY TEN 1
 http://stream.geoiptv.live:8880/7RYmOlCT6F/fJ5lIjAFex/32168
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",& TV HD
