@@ -1,12 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",SONY GEM
+https://code.vthanhtivi.pw/getlink/eazie/242918/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIPLUS ENG
+https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIMAX ENG
 http://iptvtree.net:8080/F18394/0e01c712/144838
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIMAX HD
-https://code.vthanhtivi.pw/getlink/jptvvn/229/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIPLUS ENG
-http://iptvtree.net:8080/F18394/0e01c712/157611
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIPLUS HD
-http://iptvtree.net:8080/F18394/0e01c712/298504
+http://vthanhtivi.pw:5000/animax/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",MTV JAPAN
 https://code.vthanhtivi.pw/getlink/jptvvn/50/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",KIDS STATION JAPAN
