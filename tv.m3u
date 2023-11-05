@@ -15,6 +15,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:2
 https://wms4-kortv.akamaized.net/a_live/63719963/20ch011.smil/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV", Willow Cricket
 http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/32139.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV", Star Sports 
+http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/111687.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV", Sky Sports
 http://stream.geoiptv.live:8880/live/7RYmOlCT6F/fJ5lIjAFex/10129.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",Music India
