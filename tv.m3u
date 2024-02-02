@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",MTV
 http://jp.vthanhnetwork.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Live TV",ANIPLUS
+https://dice-live-in.akamaized.net:443/hls/live/2106035/241430-260952/exchange241430mwabh_241430_3000/chunklist.m3u8?hdntl=exp=1706931199~acl=%2f*~id=08feece8-0067-4643-9eb1-b4fc2f676c31~data=hdntl,dWlkPXpWZ0VhNnwxMjRiMTMxMy05OTE2LTRiZGMtYTQ2ZS1lZjlhNzQ3YjZkMzAmaXA9MTcxLjIyOS4yMzIuMTYyJmV4cD0xNzA2OTMxMjI5JmVpZD0yNDE0MzAmY2lkPWRjZS5lYXppZXR2Jm9pZD0zNTQ~hmac=552b1f2730bb5bf25194a18f9e629754da2edc6136a66e2800e0a061b44f94ee
